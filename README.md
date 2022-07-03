@@ -1,4 +1,4 @@
-# Getting Started with Create React App by Hendrix and I set One Responsive Breakpoint @ 768px;
+# The Project create by Hendrix and I set One Responsive Breakpoint @ 768px;
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
